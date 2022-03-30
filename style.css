@@ -1,0 +1,27 @@
+.DA{
+    background-color: #ffc558;
+    width: 500px;
+    height: 500px;
+}
+.DB{
+    background-color: #68f068;
+    height: 50%;
+    width: 50%;
+}
+.DC{
+    color: white;
+    background-color: red;
+    font-size: 25px;
+    font-family: monospace;
+    font-weight: bolder;
+}
+.DD{
+    width: 50%;
+    height: 50vh;
+    background-color: rgb(173, 216, 230);
+}
+.DE{
+    background-color: rgb(255, 0, 0);
+    width: 75vw;
+    height: 50%;
+}
